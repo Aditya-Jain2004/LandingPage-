@@ -12,6 +12,6 @@ HTML5: The structure of the landing page is defined using HTML5 markup.
 CSS3: Styling and layout are achieved through CSS3, including custom fonts and responsive design principles.
 
 Usage
-To view the landing page, simply open the index.html file in a web browser. For development or customization purposes, feel free to modify the HTML and CSS files according to your requirements.
+To view the landing page, simply open the html file in a web browser. For development or customization purposes, feel free to modify the HTML and CSS files according to your requirements.
 
 
